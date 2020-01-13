@@ -1,0 +1,5 @@
+yum-updatesd
+bluetooth
+cups
+hplip
+sendmail

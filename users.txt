@@ -1,0 +1,2 @@
+svc1 somepasswd services /home/ nologin
+localoper local usergroup /home/ default
